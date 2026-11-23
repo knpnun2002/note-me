@@ -2,7 +2,7 @@
 // เปิดจากแคชก่อนให้เร็ว แล้วโหลดเวอร์ชันใหม่เก็บไว้ใช้ครั้งถัดไป
 // แก้ CACHE ทุกครั้งที่อัปเดตแอปขึ้นเว็บ
 
-const CACHE = 'noteme-v9';
+const CACHE = 'noteme-v10';
 const SHELL = [
   './',
   'index.html',
