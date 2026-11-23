@@ -1,0 +1,9 @@
+# ส่งขึ้น GitHub เฉพาะไฟล์ของแอป
+/*
+!/.gitignore
+!/index.html
+!/manifest.webmanifest
+!/sw.js
+!/css/
+!/icons/
+!/js/
